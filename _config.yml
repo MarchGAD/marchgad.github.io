@@ -1,14 +1,14 @@
 # Site
 title:              MarchGAD's Blog
-bio:                'Minimal, one column jekyll theme.'
-description:        "MarchGAD? Aeolus? Who care~"
+bio:                'MarchGAD or Aeolus'
+description:        " "
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             zh_CN
-url:                marchgad.github.io
+locale:             en_US
+url:
 
 # Jekyll
 permalink:          /:title/
